@@ -12,6 +12,11 @@ Para la ejecución de los siguientes ficheros se utilizo el siguiente software
 ## Software utilizado
 Para el correcto funcionamiento y ejecución de los siguientes ficheros se debe tener en cuenta la instalación de los siguientes paquetes
 
+Intalación Makefile
+```
+$ ruta/del/fichero/ make clean
+```
+
 
 
 
@@ -26,6 +31,15 @@ $ ruta/del/fichero/ make all
 ```
 $ ruta/del/fichero/ perl lanzador.pl
 ```
+
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Juan Esteban Arias Patrón** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Christian David Jimenez Montaño** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Juan Camilo Hernández Ibañez** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
 
 
 
