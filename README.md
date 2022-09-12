@@ -4,7 +4,7 @@ _Este proyecto representa la ejecución de la multiplación de matrices con el f
 
 ## Versiones
 Para la ejecución de los siguientes ficheros se utilizo el siguiente software
-* [Ubuntu](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Ubuntu](https://ubuntu.com/download/desktop) - Sistema operativo utilizado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
