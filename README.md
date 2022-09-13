@@ -33,13 +33,11 @@ $ ruta/del/fichero/ perl lanzador.pl
 ```
 
 
-## Autores ✒️
+## Autores 👦👦👦
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Juan Esteban Arias Patrón** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Christian David Jimenez Montaño** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Juan Camilo Hernández Ibañez** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Juan Esteban Arias Patrón** - [Juanariasp](https://github.com/Juanariasp)
+* **Christian David Jimenez Montaño** - [styLe-Redz](https://github.com/styLe-Redz)
+* **Juan Camilo Hernández Ibañez** - [CamiloHedzz](https://github.com/CamiloHedzz)
 
 
 
