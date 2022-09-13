@@ -38,13 +38,20 @@ $ sudo apt install perl
 
 
 ## Compilación y ejecución
+_Para la ejecución del Benchmark se debe llevar a cabo el siguiente procedimiento. Un fichero makefile contiene las órdenes que debe ejecutar la utilidad make, así como las dependencias entre los distintos módulos del proyecto. Este archivo de descripción es un fichero de texto._
 
+
+
+
+_Eliminación de ficheros .o_
 ```
 $ ruta/del/fichero/ make clean
 ```
 ```
 $ ruta/del/fichero/ make all
 ```
+
+_Fichero para automatizacion de ejecucion por lotes de un ejecutable_
 ```
 $ ruta/del/fichero/ perl lanzador.pl
 ```
