@@ -14,18 +14,15 @@ Para el correcto funcionamiento y ejecución de los siguientes ficheros se debe 
 
 **Intalación Makefile**
 
+GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files.
+
+
 ```
 $ sudo apt-get update
 ```
 ```
 $ sudo apt-get install make
 ```
-
-```
-$ ruta/del/fichero/ make clean
-```
-
-
 
 
 ## Compilación y ejecución
