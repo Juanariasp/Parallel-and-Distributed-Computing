@@ -9,7 +9,7 @@ Para la ejecución de los siguientes ficheros se utilizo el siguiente software
 * [Lenguaje C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)) - Lenguaje de programación
 * [GNU Make](https://www.gnu.org/software/make/) - Para la compilación
 
-## Software utilizado
+## Instalación
 Para el correcto funcionamiento y ejecución de los siguientes ficheros se debe tener en cuenta la instalación de los siguientes paquetes
 
 **Intalación Makefile**
