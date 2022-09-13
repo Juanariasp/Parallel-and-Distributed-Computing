@@ -12,7 +12,15 @@ Para la ejecución de los siguientes ficheros se utilizo el siguiente software
 ## Software utilizado
 Para el correcto funcionamiento y ejecución de los siguientes ficheros se debe tener en cuenta la instalación de los siguientes paquetes
 
-Intalación Makefile
+**Intalación Makefile**
+
+```
+$ sudo apt-get update
+```
+```
+$ sudo apt-get install make
+```
+
 ```
 $ ruta/del/fichero/ make clean
 ```
