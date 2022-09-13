@@ -50,11 +50,18 @@ $ ruta/del/fichero/ perl lanzador.pl
 ```
 
 
-## Autores 👦👦👦
+## About
+**Universidad Sergio Arboleda**
+**Docente:** PhD. John Corredor Franco
 
-* **Juan Esteban Arias Patrón** - [Juanariasp](https://github.com/Juanariasp)
-* **Christian David Jimenez Montaño** - [styLe-Redz](https://github.com/styLe-Redz)
-* **Juan Camilo Hernández Ibañez** - [CamiloHedzz](https://github.com/CamiloHedzz)
+**Hecho con ❤️ por**
+
+👦 **Juan Esteban Arias Patrón** - [Juanariasp](https://github.com/Juanariasp)
+
+👦 **Christian David Jimenez Montaño** - [styLe-Redz](https://github.com/styLe-Redz)
+
+👦 **Juan Camilo Hernández Ibañez** - [CamiloHedzz](https://github.com/CamiloHedzz)
+
 
 
 
