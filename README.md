@@ -24,6 +24,17 @@ $ sudo apt-get update
 $ sudo apt-get install make
 ```
 
+**Intalación Perl**
+Perl toma características del lenguaje C, del lenguaje interpretado bourne shell, AWK, sed, Lisp y, en un grado inferior, de muchos otros lenguajes de programación.
+
+```
+$ sudo apt-get update
+```
+```
+$ sudo apt install perl
+```
+
+
 
 ## Compilación y ejecución
 
